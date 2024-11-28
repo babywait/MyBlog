@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
+    name: "Zhao KAI",
     url: "https://mister-hope.com",
   },
 
@@ -20,14 +20,14 @@ export default hopeTheme({
   docsDir: "src",
 
   // 导航栏
-  navbar,
+  navbar: ["/Tomcat/"],
 
   // 侧边栏
-  sidebar,
+  sidebar:[],
 
   // 页脚
-  footer: "默认页脚",
-  displayFooter: true,
+  //footer: "默认页脚",
+  //displayFooter: false,
 
   // 加密配置
   encrypt: {
