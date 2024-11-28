@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/MyBlog/",
 
   lang: "zh-CN",
-  title: "文档演示",
+  title: "Zhao Kai's Blog",
   description: "vuepress-theme-hope 的文档演示",
 
   theme,
